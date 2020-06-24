@@ -1,0 +1,59 @@
+   
+div.container
+{
+    background-color:orange;
+	height:730px;
+	width:1530px;
+
+	}
+div.gallery {
+	height:400px;
+	width:300px;
+	float:left;
+	margin:30px;
+    margin-left: 20px;
+    margin-right: 10px;
+	margin-top:60px;
+	border: 1px dotted;
+	background-color:lightgrey;
+	border:40px;
+
+}
+
+div.gallery img:hover {
+    border: 1px solid black;
+}
+div.gallery:hover {
+    border: 1px solid blue;
+}
+div.gallery img {
+    	height: 300px;
+    	width: 250px;
+	border-radius:20px;
+	margin-top:25px;
+    	margin-left: 25px;
+    	border: 0.5px dashed black;
+}
+div.desc {
+    
+	padding: 15px;
+    text-align: center;
+	font-size:20px;
+	
+}
+.text
+{
+	font-size:20px;
+	margin-top:50px;
+    margin-left: 400px;
+}
+.b input[type="submit"]
+	{
+		font-size:20px;
+		background:#1e90ff;
+		color:white;
+		border-radius:10px;
+		height:40px;
+		width:150px;
+	}
+

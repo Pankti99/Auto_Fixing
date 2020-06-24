@@ -1,0 +1,38 @@
+
+.text
+{
+	font-size:20px;
+	
+	
+}
+.select{
+		font-size:20px;
+		width:200px;
+		font-family:"Lucida Sans"
+		font-style:normal;
+	
+		border-radius:4px;
+		border:2px solid black;
+		
+	}
+.font{
+	
+	font-family:"Lucida Sans";
+	font-size:20px;
+	}
+	h2{
+	font-family:"Lucida Sans";
+	}
+	
+	.b input[type="submit"]
+	{
+		font-size:20px;
+		background:#1e90ff;
+		color:white;
+		border-radius:10px;
+		height:40px;
+		width:150px;
+	
+	}
+
+

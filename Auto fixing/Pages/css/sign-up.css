@@ -1,0 +1,47 @@
+body
+{
+background:url(car4.jpg);
+background-size:cover;
+}
+.a{
+	position:absolute;
+	border:20px;
+	padding:30px;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	text-align:center;
+	height:600px;
+	width:420px;
+	background:rgba(0,0,0,0.5);
+	font-size:25px;
+	color:white;
+	}
+	.r{
+	font-size:10px;
+	}
+	.a input[type="email"],
+	input[type="password"],
+		input[type="text"],
+			input[type="number"]
+	{
+		background:transparent;
+		color:white;
+		border:none;
+		border-bottom:1px solid white;
+	}
+	.a input[type="submit"]
+	{
+		font-size:20px;
+		background:#ff1493;
+		color:white;
+		border-radius:10px;
+		height:40px;
+		width:150px;
+		border:none;
+		outline:none;
+	}
+	.h2{
+	
+		text-align:center;
+		}
